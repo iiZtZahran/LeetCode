@@ -10,3 +10,7 @@ My Leetcode problems solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iiZtZahran/LeetCode/tree/master/0001-two-sum) |
+# Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/iiZtZahran/LeetCode/tree/master/0009-palindrome-number) |
