@@ -20,3 +20,8 @@ My Leetcode problems solution
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iiZtZahran/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/iiZtZahran/LeetCode/tree/master/0014-longest-common-prefix) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/iiZtZahran/LeetCode/tree/master/0014-longest-common-prefix) |
