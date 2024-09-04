@@ -49,6 +49,7 @@ My Leetcode problems solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/iiZtZahran/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/iiZtZahran/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +58,5 @@ My Leetcode problems solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/iiZtZahran/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/iiZtZahran/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
