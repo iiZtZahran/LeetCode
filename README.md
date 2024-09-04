@@ -50,6 +50,7 @@ My Leetcode problems solution
 | ------- |
 | [0002-add-two-numbers](https://github.com/iiZtZahran/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/iiZtZahran/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/iiZtZahran/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
