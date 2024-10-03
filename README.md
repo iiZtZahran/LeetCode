@@ -71,4 +71,8 @@ My Leetcode problems solution
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iiZtZahran/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/iiZtZahran/LeetCode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/iiZtZahran/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
